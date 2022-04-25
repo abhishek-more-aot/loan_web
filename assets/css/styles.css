@@ -7,7 +7,7 @@
 */
 /* ======= Base ======= */
 body {
-  font-family: 'Roboto', arial, sans-serif;
+  font-family: "Roboto", arial, sans-serif;
   color: #444;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -409,21 +409,24 @@ select {
   height: 780px;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1 {
-  background: #253340 url('../images/background/bg-header-1.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-header-1.jpg") no-repeat 50%
+    top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-2 {
-  background: #253340 url('../images/background/bg-header-2.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-header-2.jpg") no-repeat 50%
+    top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-3 {
-  background: #253340 url('../images/background/bg-header-3.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-header-3.jpg") no-repeat 50%
+    top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -446,20 +449,21 @@ select {
   top: 0;
   left: 0;
   height: 500px;
-  background: #253340 url('../images/background/bg-header-small-1.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-header-small-1.jpg")
+    no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .headline-bg.pricing-headline-bg {
-  background-image: url('../images/background/bg-header-small-2.jpg');
+  background-image: url("../images/background/bg-header-small-2.jpg");
 }
 .headline-bg.contact-headline-bg {
-  background-image: url('../images/background/bg-header-small-3.jpg');
+  background-image: url("../images/background/bg-header-small-3.jpg");
 }
 .headline-bg.about-headline-bg {
-  background-image: url('../images/background/bg-header-small-4.jpg');
+  background-image: url("../images/background/bg-header-small-4.jpg");
 }
 /* ======= Promo ======= */
 .promo {
@@ -788,7 +792,8 @@ select {
 }
 /* ======= cta-section ======= */
 .cta-section {
-  background: #253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;
+  background: #253340 url("../images/background/bg-footer-1.jpg") no-repeat left
+    top;
   background-size: cover;
   min-height: 420px;
   color: #fff;
@@ -796,10 +801,10 @@ select {
   border: none;
 }
 .cta-section.pricing-cta-section {
-  background-image: url('../images/background/bg-footer-2.jpg');
+  background-image: url("../images/background/bg-footer-2.jpg");
 }
 .cta-section.contact-cta-section {
-  background-image: url('../images/background/bg-footer-3.jpg');
+  background-image: url("../images/background/bg-footer-3.jpg");
 }
 .cta-section .title {
   font-size: 36px;
@@ -1224,7 +1229,7 @@ select {
 }
 .pricing .item .ribbon .text:before,
 .pricing .item .ribbon .text:after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -5px;
   border-top: 5px solid #2e4050;
@@ -1257,7 +1262,8 @@ select {
 /* ======= Download Apps ======= */
 .download-page .headline-bg {
   height: 1200px;
-  background: #253340 url('../images/background/bg-mobile-headline.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-mobile-headline.jpg")
+    no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1282,7 +1288,7 @@ select {
   width: 324px;
   height: 651px;
   display: block;
-  background: url('../images/mobile/iphone.png') no-repeat left top;
+  background: url("../images/mobile/iphone.png") no-repeat left top;
   position: relative;
 }
 .apps-section .phone-holder .screenshot {
@@ -1551,28 +1557,28 @@ select {
   z-index: 10;
 }
 .blog-slider .slide.slide-1 {
-  background: #253340 url('../images/blog/post-1.jpg') no-repeat 50% top;
+  background: #253340 url("../images/blog/post-1.jpg") no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .blog-slider .slide.slide-2 {
-  background: #253340 url('../images/blog/post-2.jpg') no-repeat 50% top;
+  background: #253340 url("../images/blog/post-2.jpg") no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .blog-slider .slide.slide-3 {
-  background: #253340 url('../images/blog/post-3.jpg') no-repeat 50% top;
+  background: #253340 url("../images/blog/post-3.jpg") no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .blog-slider .slide.slide-4 {
-  background: #253340 url('../images/blog/post-4.jpg') no-repeat 50% top;
+  background: #253340 url("../images/blog/post-4.jpg") no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1600,32 +1606,34 @@ select {
   display: block;
 }
 .blog-slider .flex-direction-nav a.flex-prev {
-  left: 5%!important;
+  left: 5% !important;
 }
 .blog-slider .flex-direction-nav a.flex-prev:before {
   content: "";
   text-indent: -9999px;
-  background: url('../images/flexslider/carousel-arrow-prev.png') no-repeat left top;
+  background: url("../images/flexslider/carousel-arrow-prev.png") no-repeat left
+    top;
   display: block;
   width: 30px;
   height: 50px;
 }
 .blog-slider .flex-direction-nav a.flex-next {
-  right: 5%!important;
+  right: 5% !important;
 }
 .blog-slider .flex-direction-nav a.flex-next:before {
   content: "";
   text-indent: -9999px;
-  background: url('../images/flexslider/carousel-arrow-next.png') no-repeat right top;
+  background: url("../images/flexslider/carousel-arrow-next.png") no-repeat
+    right top;
   display: block;
   width: 30px;
   height: 50px;
 }
 .blog-slider:hover .flex-prev {
-  left: 5%!important;
+  left: 5% !important;
 }
 .blog-slider:hover .flex-next {
-  right: 5%!important;
+  right: 5% !important;
 }
 .blog-slider .flex-caption {
   padding-top: 90px;
@@ -1784,7 +1792,7 @@ select {
   margin-bottom: 60px;
   position: relative;
   height: 500px;
-  background: #253340 url('../images/blog/post-2.jpg') no-repeat 50% top;
+  background: #253340 url("../images/blog/post-2.jpg") no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1894,7 +1902,12 @@ select {
 .blog-entry-wrapper .blog-entry .blog-entry-content .figure .figure-caption a {
   color: #999;
 }
-.blog-entry-wrapper .blog-entry .blog-entry-content .figure .figure-caption a:hover {
+.blog-entry-wrapper
+  .blog-entry
+  .blog-entry-content
+  .figure
+  .figure-caption
+  a:hover {
   color: #ec6952;
 }
 .blog-entry-wrapper .blog-entry .blog-entry-content .custom-list-style {
@@ -1924,7 +1937,7 @@ select {
 .blog-entry-wrapper .custom-quote {
   border: none;
   padding: 60px 30px;
-  font-family: 'Roboto slab', serif;
+  font-family: "Roboto slab", serif;
   font-weight: 300;
   font-style: italic;
   font-size: 20px;
@@ -1979,7 +1992,7 @@ select {
 }
 .blog-page .header-blog h1.logo a {
   max-width: inherit;
-  background: lightblue url("logo.png") no-repeat fixed center;;
+  background: lightblue url("logo.png") no-repeat fixed center;
   color: #ec6952;
   padding-left: 0;
   padding-top: 25px;
@@ -2055,7 +2068,7 @@ select {
   display: block;
   padding-top: 5px;
   font-size: 18px;
-  font-family: 'open sans', arial, sans-serif;
+  font-family: "open sans", arial, sans-serif;
   font-weight: 500;
   color: #253340;
 }
@@ -2093,7 +2106,7 @@ select {
 .story-section .belife {
   border-color: #f19180;
   padding: 15px 30px;
-  font-family: 'Roboto slab', serif;
+  font-family: "Roboto slab", serif;
   font-weight: 300;
   font-style: italic;
   font-size: 20px;
@@ -2250,14 +2263,16 @@ select {
 }
 /* ======= Login Page ======= */
 .has-full-screen-bg .upper-wrapper {
-  background: #253340 url('../images/background/bg-screen-1.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-screen-1.jpg") no-repeat 50%
+    top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .has-full-screen-bg.signup-page .upper-wrapper {
-  background: #253340 url('../images/background/bg-screen-2.jpg') no-repeat 50% top;
+  background: #253340 url("../images/background/bg-screen-2.jpg") no-repeat 50%
+    top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2864,13 +2879,13 @@ select {
   background: #ec6952;
 }
 .config-panel #color-options li.theme-2 a {
-  background-color: #28A5A8;
+  background-color: #28a5a8;
 }
 .config-panel #color-options li.theme-3 a {
-  background-color: #497CB1;
+  background-color: #497cb1;
 }
 .config-panel #color-options li.theme-4 a {
-  background-color: #F89D29;
+  background-color: #f89d29;
 }
 .config-panel #color-options li.theme-5 a {
   background-color: #34495e;
@@ -2879,7 +2894,7 @@ select {
   background-color: #47c9af;
 }
 .config-panel #color-options li.theme-7 a {
-  background-color: #A06081;
+  background-color: #a06081;
 }
 .config-panel #color-options li.theme-8 a {
   background-color: #96a94b;
@@ -2888,7 +2903,7 @@ select {
   background-color: #f06060;
 }
 .config-panel #color-options li.theme-10 a {
-  background-color: #737F97;
+  background-color: #737f97;
 }
 .config-panel .close {
   position: absolute;
@@ -3446,3 +3461,37 @@ select {
   }
 }
 /* Large devices (large desktops, 1200px and up) */
+
+/* logo query */
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .logo-img {
+    width: 25vw;
+  }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .logo-img {
+    width: 18vw !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .logo-img {
+    width: 18vw;
+    margin-top: 5px;
+  }
+}
+@media (min-width: 1025px) and (max-width: 1440px) {
+  .logo-img {
+    width: 18vw;
+    margin-top: 5px;
+  }
+}
+
+@media (min-width: 1441px) and (max-width: 2560px) {
+  .logo-img {
+    width: 10vw;
+    margin-top: 5px;
+  }
+}
